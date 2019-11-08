@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import SwCard from "./SwCard"
 import "./App.css";
-import { Container, Row } from "reactstrap";
+import { Container, Row, } from "reactstrap";
 
 
 export default function Swcards() {
